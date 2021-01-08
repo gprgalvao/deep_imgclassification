@@ -36,5 +36,5 @@ nohup bash super_tarefas.sh &
 ```
 
 # Desenvolvedores
-| [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHMAHymw99pVw/profile-displayphoto-shrink_100_100/0?e=1602720000&v=beta&t=oHIYd5wNz2GnDnaHCQO79qzJRB-0SpbNzDTFRCRKPQg" width=115><br><sub>Gustavo Ubeda</sub>](https://github.com/gustavo-ubeda) |  [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQFW4Ti9QSuzdw/profile-displayphoto-shrink_100_100/0?e=1602720000&v=beta&t=detY-YmffbkPf_lWEoYzTOXwSJF2cTDxwJyroLwwi-E" width=115><br><sub>André Rossi</sub>](https://github.com/andrerossidc) |
+| [<img src="https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8220016Y1" width=115><br><sub>Gustavo Ubeda</sub>](https://github.com/gustavo-ubeda) |  [<img src="https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4717971Z0" width=115><br><sub>André Rossi</sub>](https://github.com/andrerossidc) |
 | :---: | :---: 
